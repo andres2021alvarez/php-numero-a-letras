@@ -17,12 +17,6 @@ Puede instalar este paquete mediante Composer
 composer require luecano/numero-a-letras:~1.4
 ```
 
-Puede actualizar este paquete mediante Composer
-
-```bash
-composer update luecano/numero-a-letras
-```
-
 ## Uso
 
 ```php
