@@ -14,7 +14,7 @@ Funciona para varios países y monedas.
 Puede instalar este paquete mediante Composer
 
 ```bash
-composer require luecano/numero-a-letras
+composer require luecano/numero-a-letras:~1.4
 ```
 
 Puede actualizar este paquete mediante Composer
